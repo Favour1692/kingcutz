@@ -9,6 +9,7 @@ const Hero = () => {
           src="/hero.webp"
           alt=""
           fill
+          priority
           className="object-cover object-[35%_center] md:object-center"
         />
       </div>
