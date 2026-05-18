@@ -3,14 +3,6 @@
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {
-  /* --color-background: #f8f5f0;
-  --color-surface: #efe7dc;
-  --color-primary: #c76b4f;
-  --color-secondary: #d6b98c;
-  --color-foreground: #2b211d;
-  --color-muted: #7a7068;
-  --color-borderline: #ddd2c4; */
-
   --color-background: #fafafa;
   --color-surface: #f0edea;
   --color-primary: #b05a30;
