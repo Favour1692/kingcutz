@@ -7,6 +7,9 @@ import { bodytext } from "@/fonts";
 export const metadata: Metadata = {
   title: "KingCutz barbershop",
   description: "A beautiful single-page site for a barbershop, kingcutz",
+  icons: {
+    icon: "/icon.png",
+  },
 };
 
 export default function RootLayout({
